@@ -1,0 +1,14 @@
+{
+  "name": "discord-chefbot",
+  "version": "1.0.0",
+  "description": "The experimental Discord bot powered by Node.js and Python",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1"
+  }
+}
